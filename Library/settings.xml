@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="ee945bf2-30ce-41e8-a33f-d3c979211643" name="Library" disabled="true" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="ee945bf2-30ce-41e8-a33f-d3c979211643fileName">Library</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>

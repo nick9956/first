@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="772b2d8c-1f77-4ab3-8f8c-0baba13f9e84" name="Board Processing" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="772b2d8c-1f77-4ab3-8f8c-0baba13f9e84fileName">Board-Processing</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="506bb5a2-c5d3-4c42-8d58-a5760109a393" name="List Processing" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="506bb5a2-c5d3-4c42-8d58-a5760109a393fileName">List-Processing</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>

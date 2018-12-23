@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:restMockAction name="/group" method="GET" resourcePath="/group" id="d6188ac4-1fe0-446e-accf-1e691595e549" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="d6188ac4-1fe0-446e-accf-1e691595e549fileName">%2Fgroup</con:setting></con:settings><con:dispatchStyle>SEQUENCE</con:dispatchStyle><con:dispatchConfig/><con:dispatchXPath/><con:routeScript/><con:response name="Response 1" id="c50cdc05-4986-407b-8ba5-7bda66d8f38c" httpResponseStatus="200" mediaType="application/json" dataSource=""><con:settings/><con:responseContent>{
+	"response" : "get your group!"
+}</con:responseContent></con:response></con:restMockAction>

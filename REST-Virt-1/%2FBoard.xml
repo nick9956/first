@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:restMockAction name="/Board" method="GET" resourcePath="/Board" id="29d3e76e-281a-4cd8-8688-ed3b11307a6b" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="29d3e76e-281a-4cd8-8688-ed3b11307a6bfileName">%2FBoard</con:setting></con:settings><con:dispatchStyle>SEQUENCE</con:dispatchStyle><con:dispatchConfig/><con:dispatchXPath/><con:routeScript/><con:response name="Response 1" id="1889997e-d3a2-4bd7-bd41-3d8687c46a45" httpResponseStatus="200" dataSource=""><con:settings/><con:responseContent>{
+	"Response" : "Everithing is OK!"
+}</con:responseContent></con:response></con:restMockAction>
